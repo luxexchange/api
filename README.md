@@ -29,7 +29,7 @@ module.exports = proxy
 
 ## License
 
-MIT — Copyright (c) 2020-2026 Lux Industries, Inc. See [LICENSE](./LICENSE).
+BSD-3-Clause — Copyright (c) 2020-2026, Lux Industries, Inc. See [LICENSE](./LICENSE).
 
 Extracted from the `luxfi/exchange` monorepo. This proxy code is Lux-original
 and is **not** covered by the GPL of the exchange frontend (which derives from

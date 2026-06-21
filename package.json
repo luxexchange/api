@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Dev-server proxy middleware for the Lux Exchange frontend",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "author": "Lux Industries, Inc.",
   "main": "index.js",
   "files": [
